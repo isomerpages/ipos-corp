@@ -32,6 +32,7 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+      button: test
   - textcards:
       title: Text Cards
       subtitle: Add informational text
