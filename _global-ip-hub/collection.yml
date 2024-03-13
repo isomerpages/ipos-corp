@@ -1,0 +1,4 @@
+collections:
+  global-ip-hub:
+    output: true
+    order: []
