@@ -2,4 +2,5 @@ collections:
   global-ip-hub:
     output: true
     order:
+      - SIPS 2030 Thrusts/.keep
       - Global IP Hub.md
