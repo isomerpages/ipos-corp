@@ -64,3 +64,18 @@ our wider Research Innovation Enterprise (RIE) objectives.</p>
 a different aspect of Singapore’s economy – i.e., supporting international
 activities (<strong><u>Hub</u></strong>), growing local enterprises (<strong><u>Business</u></strong>),
 and building a high-calibre workforce (<strong><u>Jobs</u></strong>).</p>
+<p><strong>[INSERT IMAGE HERE]</strong>
+</p>
+<p>SIPS 2030 is a Whole-of-Government effort led by the Ministry of Law,
+Ministry of Trade and Industry, Ministry of Finance, and IPOS, with support
+from various other agencies.</p>
+<p>The successful implementation of SIPS 2030 requires the collective efforts
+and energy of all stakeholders, and we welcome feedback and contributions.
+Let us work together to realise a brighter, IA/IP-driven, future for Singapore.</p>
+<p>Get in touch with us to provide feedback, or for enquiries on SIPS 2030
+at <a rel="noopener noreferrer nofollow" target="_blank">ipos_enquiry@ipos.gov.sg</a>.</p>
+<p>Click on the buttons below to find out more about each Thrust.</p>
+<p>[INSERT IMAGE HERE]</p>
+<p>Discover how the Singapore IP Strategy (SIPS) 2030 has been put into action
+here – <strong><u>Our SIPS 2030 Journey.</u></strong>
+</p>
