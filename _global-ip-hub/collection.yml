@@ -2,10 +2,10 @@ collections:
   global-ip-hub:
     output: true
     order:
-      - Our SIPS Journey/2021 to Present.md
-      - Our SIPS Journey/.keep
       - About the Singapore IP Strategy 2030 (SIPS 2030).md
       - SIPS 2030 Thrusts/.keep
       - SIPS 2030 Thrusts/IP Hub.md
       - SIPS 2030 Thrusts/Business.md
       - SIPS 2030 Thrusts/Jobs.md
+      - Our SIPS Journey/.keep
+      - Our SIPS Journey/2021 to Present.md
