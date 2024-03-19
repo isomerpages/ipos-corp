@@ -20,12 +20,21 @@ their IA/IP effectively for growth.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Indranee Rajah" src="/images/Indranee.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Edwin Tong SC" src="/images/Edwin_Tong.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Chan Chun Sing" src="/images/Chan_Chun_Sing.png">
+</div>
 </th>
 </tr>
 <tr>
