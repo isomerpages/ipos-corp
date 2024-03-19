@@ -18,6 +18,10 @@ ASEAN and the rest of the world.</p>
 <p>Singapore will also continue efforts to position ourselves as a choice
 location for international IP dispute resolution by augmenting the pipeline
 of local experts in areas such as alternative dispute resolution.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hub_banner.png">
+</div>
+<h4>Overview of the Hub Thrust:</h4>
 <table>
 <tbody>
 <tr>
