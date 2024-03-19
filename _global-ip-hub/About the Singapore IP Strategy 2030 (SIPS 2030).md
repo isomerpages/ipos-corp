@@ -17,6 +17,45 @@ that of tangible assets, and is predicted to continue rising. As the IA
 and IP continues to rise in prominence as drivers of economic growth, enterprises
 and innovators need to be equipped with the tools and know-how to manage
 their IA/IP effectively for growth.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of Minister Indranee Rajah" src="/images/Indranee.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Minister Indranee Rajah</div>
+<div class="isomer-card-description">“SIPS 2030 will also focus on helping enterprises accelerate business
+growth, as they tap on the unrealised potential of their IA/IP.”</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of Minister Edwin Tong" src="/images/Edwin_Tong.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Minister Edwin Tong</div>
+<div class="isomer-card-description">“While traditionally seen as a legal or technical function, IA/IP management
+is increasingly becoming an essential part of strategic management decisions
+as it impacts shareholder value.”</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of Minister Chan Chun Sing" src="/images/Chan_Chun_Sing.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Minister Chan Chun Sing</div>
+<div class="isomer-card-description">Description cannot exceed 300 characters :&lt;</div>
+</div>
+</div>
+</div>
 <table>
 <tbody>
 <tr>
