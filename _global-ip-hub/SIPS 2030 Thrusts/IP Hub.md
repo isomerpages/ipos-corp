@@ -87,3 +87,7 @@ development</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sipsreportbutton181071d77c2d0635fa1cdff0000abd271.png">
+</div>
+<p></p>
