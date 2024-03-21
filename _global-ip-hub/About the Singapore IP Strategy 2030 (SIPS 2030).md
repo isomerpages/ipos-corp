@@ -118,10 +118,7 @@ and building a high-calibre workforce (<strong><u>Jobs</u></strong>).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIPS_INFOGRAPHIC.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sipsreportbutton181071d77c2d0635fa1cdff0000abd271.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.ipos.gov.sg/docs/default-source/default-document-library/singapore-ip-strategy-report-2030-18May2021.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sipsreportbutton181071d77c2d0635fa1cdff0000abd271.png"></a>
 <p>SIPS 2030 is a Whole-of-Government effort led by the Ministry of Law,
 Ministry of Trade and Industry, Ministry of Finance, and IPOS, with support
 from various other agencies.</p>
