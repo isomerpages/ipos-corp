@@ -2,7 +2,6 @@ collections:
   global-ip-hub:
     output: true
     order:
-      - Tech & IP Dispute Resolution Hub.md
       - About the Singapore IP Strategy 2030 (SIPS 2030).md
       - SIPS 2030 Thrusts/.keep
       - SIPS 2030 Thrusts/IP Hub.md
@@ -12,3 +11,4 @@ collections:
       - Our SIPS Journey/2021 to Present.md
       - Our SIPS Journey/2016 to 2020.md
       - Our SIPS Journey/2010 to 2015.md
+      - Tech & IP Dispute Resolution Hub.md
