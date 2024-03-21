@@ -15,6 +15,7 @@ activities. The Singapore IP Strategy 2030 (SIPS 2030) aims to elevate
 Singapore’s standing as a leader in intangible assets (IA) and IP expertise
 and services. Read more for an overview of our milestones.</p>
 <h3><strong>Charting Our Future With IP – 2021 to Present</strong></h3>
+<hr>
 <h4><strong>2023</strong></h4>
 <p><strong>Singapore moves up two notches in Global Innovation Index</strong>
 </p>
@@ -88,6 +89,7 @@ and time savings for all parties as compared to traditional litigation
 that would have taken one to two years.</p>
 </li>
 </ul>
+<hr>
 <h4><strong>2022</strong></h4>
 <p><strong>International Valuation Standards Council (IVSC) launched Asia Office in Singapore</strong>
 </p>
@@ -138,6 +140,7 @@ Promotion Scheme (REMPS). Enterprises could tap on an increased funding
 quantum for disputes involving both Singapore and foreign IP rights.</p>
 </li>
 </ul>
+<hr>
 <h4><strong>2021</strong></h4>
 <p><strong>Launch of Singapore IP Strategy 2030 (SIPS 2030)</strong>
 </p>
