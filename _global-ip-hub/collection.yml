@@ -2,6 +2,7 @@ collections:
   global-ip-hub:
     output: true
     order:
+      - Statistics and Legislative Developments.md
       - Research & Studies.md
       - Singapore’s Global Performance.md
       - About the Singapore IP Strategy 2030 (SIPS 2030).md
