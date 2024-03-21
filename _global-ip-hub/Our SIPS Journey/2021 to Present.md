@@ -17,17 +17,26 @@ and services. Read more for an overview of our milestones.</p>
 <h3><strong>Charting Our Future With IP – 2021 to Present</strong></h3>
 <hr>
 <h4><strong>2023</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>Singapore moves up two notches in Global Innovation Index</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Singapore ranked 5th in in the world and 1st in Asia in the 2023 Global
 Innovation Index (GII), which is published by the World Intellectual Property
 Organization (WIPO). The Index studied and ranked 132 countries across
 80 different indicators to measure their capacity for, and success in,
 innovation.</p>
-</li>
-</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Trailblazing with a new Intangibles Disclosure Framework (IDF)</strong>
 </p>
 <ul data-tight="true" class="tight">
